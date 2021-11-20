@@ -1,10 +1,21 @@
-# WeLoveMovies Frontend Application
+# Project: WeLoveMovies
+### Summary
+WeLoveMovies is a web application in which I set up a database and built out specific routes for users to access data about movies, theaters, and reviews.
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+[Live Demo](https://movies-capstone-frontend.herokuapp.com)
 
-## Installation
+### Objective
+This project demonstrates the ability to build complex servers and access data through a database:
 
-1. Fork / clone this repository.
-1. Run `npm install`.
+- Install and use common middleware packages
+- Receive requests through routes
+- Use of error handlers for when the route does not exist
+- Build an API following RESTful design principles
+- Create a connection to your database with Knex
+- Write database queries to complete CRUD routes in an Express server
+- Return joined and nested data with Knex
+- Write database migrations using Knex's migration tool
+- Deploy your backend server to a cloud service
 
-Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+### Tools used
+PostgreSQL, Node.js, Express.js, Knex.js, Heroku
