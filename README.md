@@ -2,7 +2,7 @@
 ### Summary
 WeLoveMovies is a web application in which I set up a database and built out specific routes for users to access data about movies, theaters, and reviews.
 
-[Live Demo](https://movies-capstone-frontend.herokuapp.com)
+[Live Demo](?)
 
 ### Objective
 This project demonstrates the ability to build complex servers and access data through a database:
