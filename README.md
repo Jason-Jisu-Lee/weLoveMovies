@@ -1,10 +1,10 @@
 # Project: WeLoveMovies
-### Summary
+## Summary
 WeLoveMovies is a web application in which I set up a database and built out specific routes for users to access data about movies, theaters, and reviews.
 
 [Live Demo](https://nameless-bayou-69619.herokuapp.com/)
 
-### Objective
+## Objective
 This project demonstrates the ability to build complex servers and access data through a database:
 
 - Install and use common middleware packages
@@ -17,5 +17,9 @@ This project demonstrates the ability to build complex servers and access data t
 - Write database migrations using Knex's migration tool
 - Deploy your backend server to a cloud service
 
-### Tools used
+## Tools used
 PostgreSQL, Node.js, Express.js, Knex.js, Heroku
+
+Thank you for checking out my app :) <br />
+— Jason Lee<br />
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-jisu-lee)
