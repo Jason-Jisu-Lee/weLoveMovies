@@ -1,8 +1,12 @@
-# Project: WeLoveMovies
+# WeLoveMovies
 ## About
 WeLoveMovies is a web application in which I set up a database and built out specific routes for users to access data about movies, theaters, and reviews.
 
 [Live Demo](https://nameless-bayou-69619.herokuapp.com/)
+## Installation
+1. Fork & clone repository
+2. Run `npm install`
+3. Run `npm run start:dev` to start the server locally
 
 ## Objective
 This project demonstrates the ability to build complex servers and access data through a database:
